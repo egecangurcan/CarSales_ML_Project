@@ -1,5 +1,7 @@
 # CarSales_ML_Project
 
+https://www.kaggle.com/code/egecangurcan/carsales-ml-project
+
 Project Overview
 This project aims to predict the selling price of cars with using two types of machine learning algorithms, supervised and unsupervised, on the same dataset. Specifically, a Random Forest Regressor was used for the supervised learning task, and a Random Forest Classifier was used for the unsupervised learning task after a custom transformation of the target variable.
 
